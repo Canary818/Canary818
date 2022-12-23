@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Canary818
-- 👀 I’m interested in cybersecurity and penetration testing, and a little video games too?
-- 🌱 I’m currently learning C++, Python, and ethical hacking on Kali Linux!
+- 👀 I’m interested in making all sorts of weird and wonderful code
+- 🌱 I’m currently learning Python & web development !
 - 💞️ I’m looking to collaborate on (i dont know what im doing yet)
 - 📫 How to reach me ...
 
